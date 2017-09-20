@@ -1,0 +1,12 @@
+
+.container-fluid {
+	max-width: 550px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.btn {
+	margin-top: 0.25em;
+}
+.strike {
+    text-decoration: line-through;
+}
